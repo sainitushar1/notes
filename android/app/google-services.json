@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298238850001",
+    "project_id": "notes-12345-flutter-project",
+    "storage_bucket": "notes-12345-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298238850001:android:847057f3185b4e8568a6f0",
+        "android_client_info": {
+          "package_name": "com.goniyo.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298238850001-ti61a7css6rs7ip9if5i4dkmm6pj35hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0zbK2K6H_V1qOv4G9IMJ4HgExP5NM4-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298238850001-ti61a7css6rs7ip9if5i4dkmm6pj35hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
